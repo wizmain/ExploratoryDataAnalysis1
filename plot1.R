@@ -30,8 +30,3 @@ dev.copy(png, file="plot2.png")
 
 # device off
 dev.off()
-
-
-
-
-

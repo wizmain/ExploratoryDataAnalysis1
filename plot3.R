@@ -65,8 +65,3 @@ dev.copy(png, file="plot3.png")
 
 # device off
 dev.off()
-
-
-
-
-
